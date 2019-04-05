@@ -1,5 +1,4 @@
-# speech-sentiment
-speech based twitter sentiment analysis
+# speech based twitter sentiment analysis
 
 This is a program in python that uses twitter api to get tweets and google api for speech recognition.
 
